@@ -20,7 +20,7 @@
 export default {
   data() {
     return {
-      name: 'Vue.js',
+      name: '',
       isRed: false,
       textColor: 'black',
     };
